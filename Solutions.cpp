@@ -191,6 +191,9 @@ void question8()
         cout << endl;
     }
 }
+/*
+ * Modify the above program to handle different size shapes. (Input sizes)
+ */
 void question9()
 {
     int sqsize, rectW, rectH, pyramidH;
@@ -273,6 +276,11 @@ void question10()
      }
      return max;
 }
+/*
+ * How would you modify the border program to display multiple lines of text in the border?
+ *
+ * What do you need to consider? Implement your solution.
+ */
 void question11()
 {
      const int numLines = 3;
@@ -293,7 +301,10 @@ void question11()
      }
     cout << top <<endl;
 }
-
+/*
+ * Modify the above question to left-align or right-align the text in the box.
+ * How could you centre align the text?
+ */
 void question12()
 {
 
